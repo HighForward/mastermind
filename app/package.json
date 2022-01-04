@@ -1,0 +1,17 @@
+{
+  "name": "ratusbot",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Forward",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon main.js"
+  },
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.4.0",
+    "dotenv": "^10.0.0",
+    "nodemon": "^2.0.15"
+  }
+}

@@ -16,7 +16,7 @@ const GAME_CHANNEL_ID = "904214170310967296"
 let mastermind = null
 
 
-client.login('OTAzNzcwMDM5Mjg5Nzk4Njc4.YXxzcA.YjrdX55F-zDhejyV-PP8ntl5X-0')
+client.login('')
 
 client.once('ready',() => {
 
